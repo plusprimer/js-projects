@@ -1,0 +1,16 @@
+div#container {
+	width: 600px;
+	margin: 0 auto;
+}
+div.row {
+	border: solid 1px;
+display: flex;
+}
+.gird {
+	background: grey;
+	border: solid 1px green;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+margin: 2px;
+}
