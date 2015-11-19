@@ -4,7 +4,7 @@ div#container {
 }
 div.row {
 	border: solid 1px;
-display: flex;
+	display: flex;
 }
 .gird {
 	background: grey;
@@ -12,5 +12,5 @@ display: flex;
 	-webkit-flex: 1;
 	-ms-flex: 1;
 	flex: 1;
-margin: 2px;
+	margin: 2px;
 }
